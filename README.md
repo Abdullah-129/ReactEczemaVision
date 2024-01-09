@@ -25,7 +25,7 @@ yarn install
 ```
 ## Training the Model
 
-1. Download the data from [kaggle](https://www.kaggle.com/arjuntejaswi/plant-village).
+1. Download our dataset from [Google Drive](https://drive.google.com/file/d/1ucC0_5Fx0XumeF0uUB3ef6h5w_b_gKrR/view?usp=sharing).
 2. Only keep folders related to Skin.
 3. Run Google Colab in Browser.
 4. Open `Eczema_detection.ipynb` in google colab.
