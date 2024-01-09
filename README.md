@@ -1,5 +1,12 @@
 # ReactEczemaVision
 
+## Screenshots
+
+![Image 2](https://i.ibb.co/SvrNVdj/1-1.jpg)
+![Image 3](https://i.ibb.co/PNpcTJW/1-2.jpg)
+![Image 4](https://i.ibb.co/xsrD94T/1-3.jpg)
+![Image 1](https://i.ibb.co/TRFvGLK/1-1.png)
+
 ## Setup for Python:
 
 1. Install Python ([Setup instructions](https://wiki.python.org/moin/BeginnersGuide))
