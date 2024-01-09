@@ -7,7 +7,7 @@
 2. Install Python packages
 
 ```
-pip3 install -r api/requirements.txt
+pip3 install -r FastAPI/requirements.txt
 ```
 
 3. Install Tensorflow Serving ([Setup instructions](https://www.tensorflow.org/tfx/serving/setup))
