@@ -6,3 +6,5 @@ pillow
 tensorflow-serving-api
 matplotlib
 numpy
+flask
+flask_cors
