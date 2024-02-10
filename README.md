@@ -56,10 +56,10 @@ uvicorn main:app --reload --host 0.0.0.0
 
 ### Using FastAPI & TF Serve
 
-1. Get inside `api` folder
+1. Get inside `FastAPI` folder
 
 ```bash
-cd api
+cd FastAPI
 ```
 
 2. Copy the `models.config.example` as `models.config` and update the paths in file.
